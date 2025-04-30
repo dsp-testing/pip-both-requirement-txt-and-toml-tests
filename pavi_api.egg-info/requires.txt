@@ -1,0 +1,10 @@
+fastapi[standard]==0.115.*
+smart-open[s3]==7.0.*
+
+[test]
+flake8==7.1.*
+flake8-unused-arguments==0.0.*
+mypy==1.13.*
+pytest==8.3.*
+pytest-cov==6.0.*
+httpx==0.28.*

@@ -1,0 +1,6 @@
+pyproject.toml
+pavi_api.egg-info/PKG-INFO
+pavi_api.egg-info/SOURCES.txt
+pavi_api.egg-info/dependency_links.txt
+pavi_api.egg-info/requires.txt
+pavi_api.egg-info/top_level.txt
